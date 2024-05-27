@@ -1,0 +1,1 @@
+The dataset contains detailed information about various products from multiple brands available for sale on Flipkart. It provides insights into product listings, brand prominence, pricing, discounts, and participation in special programs like the Flipkart Advantage program.
